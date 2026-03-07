@@ -4,7 +4,7 @@
 
 ## 📖 在线访问
 
-**GitHub Pages：** https://ferita.github.io/openclaw-guide
+**GitHub Pages：** https://jingzhe-agent.github.io/openclaw-guide
 
 ## 📝 教程内容
 
