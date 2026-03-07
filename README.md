@@ -1,6 +1,6 @@
 # OpenClaw 部署指南
 
-> 在 Windows 和 macOS 上部署 OpenClaw AI 网关的完整教程
+> 在 Windows 和 macOS 上部署 OpenClaw 网关的完整教程
 
 ## 📖 在线访问
 
